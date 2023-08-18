@@ -1,3 +1,5 @@
+// 归并排序 -- 稳定的
+
 #include <iostream>
 #include <vector>
 using namespace std;
