@@ -57,6 +57,8 @@ void level_order(BstNode* root) {
  *    5   9    16
  * 
  * print : 10 8 14 5 9 16
+ * 
+ * 5 8 9 10 14 16
 */ 
 int main() {
     BstNode *root = nullptr;
